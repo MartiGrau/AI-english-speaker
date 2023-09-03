@@ -1,4 +1,4 @@
-# AI-english-speaker
+# AI-english-speaker :rocket:
 Project to develop an AI system to improve English speaking.
 
 We will use different AI models:
