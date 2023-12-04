@@ -8,11 +8,11 @@ We will use different AI models:
 
 ## TODO:
 #### Research
-- [ ] Research and Test STT models
-- [ ] Research and Test TTS models
+- [x] Research and Test STT models
+- [x] Research and Test TTS models
 
 #### Implementation
-- [ ] Implement an agent to generate responses from text using LangChain and ChatGPT API
+- [x] Implement an agent to generate responses from text using LangChain and ChatGPT API
 - [ ] Interconnect the agent with the STT and TTS models
 
 
