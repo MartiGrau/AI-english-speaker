@@ -1,0 +1,5 @@
+# Create a requirements with the following libraries: OpenAI, langchain, streamlit, python-dotenv
+OpenAI==1.6.1
+langchain==0.0.352
+streamlit==1.29.0
+python-dotenv==1.0.0

@@ -1,0 +1,5 @@
+welcome_responses:
+    - Hi, I'm an AI chatbot to help you improving your English skills. What do you want to talk about?
+    - Hey! Do you want to talk about something?
+
+do_not_know_the_answer: I can't answer that.
